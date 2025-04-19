@@ -4,7 +4,6 @@ Hola soy Mateo Dabien
 
 
 ![image](https://github.com/user-attachments/assets/83eeaa86-a787-42cc-8c67-ccb9c37d3da0)
-![image](https://github.com/user-attachments/assets/ac70ea51-32dc-4498-b147-f4e5b391e274)
 ![image](https://github.com/user-attachments/assets/fbc8118c-e09a-472b-bac2-c41a73ea3f81)
 ![image](https://github.com/user-attachments/assets/f5347f48-e63f-4baf-a66e-9c7fea79cb4f)
 
