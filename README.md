@@ -11,8 +11,7 @@ Hola soy Mateo Dabien
 
 ABOUT ME:
 
-Aspiring video game programmer with a visual arts background from Centro Cultural Haedo, combining creativity and technical skills to craft engaging interactive experiences. Experience in video editing and managing educational platforms has enriched my understanding of digital content development
-
+I am a passionate student pursuing a Bachelor's degree in Video Game Programming, with a strong foundation in visual arts from my high school education at Centro Cultural Haedo. I blend creativity and technical skills to develop innovative interactive experiences. My collaboration in video editing projects and management of educational platforms has provided me with a comprehensive view of the creative and technical processes involved in digital content development.
 
 EDUCATION:
 
