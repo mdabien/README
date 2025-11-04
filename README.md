@@ -15,7 +15,7 @@ My background in **visual arts**, along with experience in **video editing** and
 
 | Level | Institution | Years |
 |:------|:-------------|:------|
-| **Bachelor’s in Video Game Programming** | National University of the Arts (UNA), Buenos Aires | 2023 – Present |
+| **Bachelor’s in Video Game Programming** | Universidad Argentina de la Empresa (UADE) | 2023 – Present |
 | **High School Diploma in Visual Arts** | Centro Cultural Haedo | 2017 – 2022 |
 
 ---
