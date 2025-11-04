@@ -1,48 +1,67 @@
-# README
-Hola soy Mateo Dabien
+<h1 align="center" style="font-weight:bold; font-size:2.4em;">Hello, I'm <span style="color:#6C63FF;">Mateo Dabien</span></h1>
 
+<p align="center">
+  <em>Video Game Programming Student | Visual Artist | Interactive Experience Developer</em>
+</p>
 
+---
 
-![image](https://github.com/user-attachments/assets/83eeaa86-a787-42cc-8c67-ccb9c37d3da0)
-![image](https://github.com/user-attachments/assets/fbc8118c-e09a-472b-bac2-c41a73ea3f81)
-![image](https://github.com/user-attachments/assets/f5347f48-e63f-4baf-a66e-9c7fea79cb4f)
+## About Me
 
+I am a student pursuing a **Bachelor’s degree in Video Game Programming**, combining artistic creativity with strong technical foundations to build unique and immersive digital experiences.  
+My background in **visual arts**, along with experience in **video editing** and **educational platform management**, provides me with a broad perspective across both creative and technical fields.
 
+## Education
 
-ABOUT ME:
+| Level | Institution | Years |
+|:------|:-------------|:------|
+| **Bachelor’s in Video Game Programming** | National University of the Arts (UNA), Buenos Aires | 2023 – Present |
+| **High School Diploma in Visual Arts** | Centro Cultural Haedo | 2017 – 2022 |
 
-I am a passionate student pursuing a Bachelor's degree in Video Game Programming, with a strong foundation in visual arts from my high school education at Centro Cultural Haedo. I blend creativity and technical skills to develop innovative interactive experiences. My collaboration in video editing projects and management of educational platforms has provided me with a comprehensive view of the creative and technical processes involved in digital content development.
+---
 
-EDUCATION:
+## Experience
 
-Bachelor's in Video Game Programming National University of the Arts, Buenos Aires 2023 – Present
+**Video Editing Assistant (2022–2025)**  
+_Independent Project_  
+- Edited audiovisual content using **Adobe Premiere Pro**  
+- Collaborated on the creation of promotional material for social media  
 
-High School Diploma in Visual Arts Centro Cultural Haedo 2017 – 2022
+**Moodle Platform Management (2023–2024)**  
+_Favaloro University – Occupational Medicine Program_  
+- Managed and updated educational content on the Moodle platform  
+- Provided technical support to teachers and students  
 
+---
 
-EXPERIENCE:
+## Technical Skills
 
-Video Editing Assistant
-Independent Project
-2022-2025
-Edited audiovisual content using Adobe Premiere Pro.
-Collaborated in creating promotional material for social media.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,unity,unreal,photoshop,ae,premiere,canva" />
+</p>
 
-Moodle Platform Management Universidad Favaloro - Carrera de Medicina del Trabajo 2023-2024 Managed and updated content on the Moodle platform.
-Provided technical support to teachers and students in using the platform.
+- **Programming Languages:** C#, C++, JavaScript  
+- **Game Engines:** Unity, Unreal Engine *(intermediate)*  
+- **Graphic Design:** Photoshop, Canva  
+- **Video Editing:** Premiere Pro, After Effects  
+- **Educational Platforms:** Moodle  
+- **Languages:** Spanish (native), English (advanced)
 
+---
 
-SKILLS:
+## Additional Information
 
-Programming Languages: C#, C++, JavaScript
+I am deeply interested in the intersection of **art and technology**, exploring how design, sound, and interactivity can shape player experiences.  
+Currently, I am developing my own prototypes using **Unity** and **Unreal Engine**, focusing on gameplay systems and visual storytelling.
 
-Game Engines: Unity, Unreal Engine (intermedium level)
+---
 
-Graphic Design: Adobe Photoshop, Canvas
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
-Video Editing: Adobe Premiere Pro, After Effects
+<p align="center" style="font-weight:bold;">
+  Thank you for visiting my profile.
+</p>
 
-Educational Platforms: Moodle
-
-Languages: Spanish (native), English (Advanced)
 
